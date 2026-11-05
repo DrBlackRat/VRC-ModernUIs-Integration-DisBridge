@@ -277,6 +277,12 @@
         "com.unity.ai.navigation": "1.1.5"
       }
     },
+    "one.razgriz.harmony-vpm": {
+      "version": "file:one.razgriz.harmony-vpm",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "xyz.drblackrat.vrc.modernuis": {
       "version": "file:xyz.drblackrat.vrc.modernuis",
       "depth": 0,

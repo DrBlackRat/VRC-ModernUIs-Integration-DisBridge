@@ -8,6 +8,9 @@
     },
     "com.vrchat.core.vpm-resolver": {
       "version": "0.1.29"
+    },
+    "one.razgriz.harmony-vpm": {
+      "version": "2.2.2"
     }
   },
   "locked": {
@@ -27,6 +30,10 @@
     },
     "com.vrchat.core.vpm-resolver": {
       "version": "0.1.29",
+      "dependencies": {}
+    },
+    "one.razgriz.harmony-vpm": {
+      "version": "2.2.2",
       "dependencies": {}
     }
   }
