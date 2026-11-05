@@ -14,7 +14,7 @@ If you have questions / need help feel free to join the support Discord!
 
 # What is the ModernUIs DisBridge Integration?
 
-Intergration to allow using DisBridge for ModernUIs Whitelist / Permission system.
+Integration to allow using DisBridge for ModernUIs Whitelist / Permission system.
 
 ### DisBridge
 
