@@ -2,7 +2,7 @@
   "name": "xyz.drblackrat.vrc.modernuis.integrations.disbridge",
   "displayName": "ModernUIs Integration DisBridge",
   "version": "0.3.0",
-  "description": "Intergration to allow using DisBridge for ModernUIs Whitelist / Permission system.",
+  "description": "Integration to allow using DisBridge for ModernUIs Whitelist / Permission system.",
   "gitDependencies": {},
   "vpmDependencies": {
     "com.vrchat.worlds": ">=3.10.4 <4.0.0",
