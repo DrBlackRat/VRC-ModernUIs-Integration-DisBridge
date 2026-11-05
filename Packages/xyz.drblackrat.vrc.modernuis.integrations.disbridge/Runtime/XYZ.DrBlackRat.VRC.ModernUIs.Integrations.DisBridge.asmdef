@@ -1,0 +1,21 @@
+{
+    "name": "XYZ.DrBlackRat.VRC.ModernUIs.Integrations.DisBridge",
+    "rootNamespace": "",
+    "references": [
+        "VRC.SDK3",
+        "VRC.SDKBase",
+        "VRC.Udon",
+        "UdonSharp.Runtime",
+        "DrBlackRat.VRC.ModernUIs",
+        "UdonVR.DisBridge"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
